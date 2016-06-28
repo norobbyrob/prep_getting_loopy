@@ -1,4 +1,3 @@
-// Do your work here
 var evenNumberArray = ''
 
 function evenNumbers(){
@@ -11,5 +10,4 @@ console.log("Value is: " + evenNumberArray)
 }
 
 evenNumbers();
-
 
